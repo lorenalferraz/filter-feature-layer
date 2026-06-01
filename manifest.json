@@ -1,0 +1,24 @@
+{
+  "name": "filter-feature-layer",
+  "label": "Filtro Sub-bacias",
+  "type": "widget",
+  "version": "1.20.0",
+  "exbVersion": "1.20.0",
+  "author": "Custom",
+  "description": "Filtra automaticamente as camadas de sub-bacias e índice de conflito por PNRH2 e sub_bacia.",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {
+    "supportMultipleMapWidgets": false
+  },
+  "dependency": [
+    "jimu-arcgis"
+  ],
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 320,
+    "height": 220
+  }
+}
