@@ -75,6 +75,8 @@ export default {
   cenarioAtual: 'Atual',
   cenarioSsp245: 'Moderado',
   cenarioSsp585: 'Pessimista',
+  cenarioSsp245Long: 'Moderado (SSP2-4.5)',
+  cenarioSsp585Long: 'Pessimista (SSP5-8.5)',
   tabCenarios: 'Cenários',
   cenariosHelp: 'Compare como o índice de conflito varia em cada cenário climático para a bacia selecionada.',
   cenariosLoading: 'Calculando variação por cenário...',
